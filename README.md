@@ -2,7 +2,7 @@
 # Nanodegree Engenheiro de Machine Learning
 
 ## Capstone
-Rebeca Andrade Baldomir
+Rebeca Andrade Baldomir  
 Junho, 2018
 
 ### Proposta
